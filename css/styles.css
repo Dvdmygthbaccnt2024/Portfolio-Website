@@ -1,0 +1,49 @@
+body
+  {
+    font-family: "Playfair Display", serif;
+    
+  }
+  
+.btn-primary{
+  background-color: #295E62 !important;
+  color: #DFF09D;
+  border-radius: 0px !important;
+  padding:10px 20px;
+}
+
+.btn-outline-primary{
+  color: #295E62;
+  border-radius: 0px !important;
+  border: 1px solid #295E62 !important;
+  padding:10px 20px;
+  margin-left: 20px;
+}
+
+#about-images{
+ overflow-y: auto;
+  background-color: #295E62;
+  width: 600px;
+  height: 550px;
+  
+}
+
+#bg-image-2 {
+ position: absolute;
+ top:-50%;
+ right: 0;;
+}
+.container.my-5.banner{
+  background-color: #F1F2F6;
+  vertical-align: middle;
+}
+
+h1 {
+  color: #295E62;
+  font-size: 60px;
+}
+h1 {
+  color: #295E62;
+  font-size: 40px;
+}
+
+
